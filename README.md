@@ -97,20 +97,6 @@ UTH-ConfMS/
 
 ---
 
-## 4. Phân chia module
-
-| Thành viên | Module phụ trách |
-|------------|------------------|
-| Ngô Hoàng Thức | Auth + User + SSO |
-| Nguyễn Đăng Thịnh | Conference + CFP |
-| Võ Trần Ngọc Anh | Submission + Upload PDF |
-| Hoàng Hữu Nghĩa | PC Management + COI Detection |
-| Nguyễn Viết Đạt | Assignment + Review Workflow |
-| Nguyễn Nhật Khánh | Decision + Notification + Bulk Email |
-| Đặng Ngọc Anh Đức | Camera-ready + Proceedings + Reporting |
-
----
-
 ## 5. Quy trình nghiệp vụ (Workflow)
 
 ```
